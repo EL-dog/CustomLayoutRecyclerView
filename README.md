@@ -1,2 +1,2 @@
-# CustomLayoutRecyclerView
-Implmentation of recyclerView using a custom layout for the display. Java Android.
+"# CustomLayoutRecyclerView"  git init git add README.md
+"# CurvedRecyclerView" 
